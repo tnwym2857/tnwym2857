@@ -1,16 +1,74 @@
-## Hi there 👋
+Shota — Data Analysis & DX Portfolio  
+製造業での業務理解 × データ分析 × 業務改善を掛け合わせ、  
+“現場で使われる分析” を実現するための学習とアウトプットをまとめています。
 
-<!--
-**tnwym2857/tnwym2857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 About Me  
+- 滋賀在住／製造オペレーション10年、生産管理3年  
+- 業務改善・データ管理・VBA自動化の経験  
+- Python・SQLを用いたデータ分析を継続学習  
+- 英語学習にも取り組み、海外の技術情報を自力で読み取れるレベルを目指しています  
+- **目標：データ分析コンサルタントとして、課題発見〜改善提案まで一気通貫で価値提供できる人材へ**
 
-Here are some ideas to get you started:
+🔧 Skills  
+Languages / Tools  
+- Python（pandas / matplotlib / seaborn）  
+- SQL（BigQuery / PostgreSQL）  
+- Excel VBA（業務自動化）  
+- Tableau / Looker（学習中）  
+- Git / GitHub  
+- 英語学習（A1→A2→B1を目標）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💪 Strengths  
+- 現場理解 × データ活用の掛け合わせ  
+- 課題発見力（製造業での改善経験）  
+- 数字で考える習慣  
+- 継続学習（毎日インプット＆アウトプット）
+
+📊 Projects  
+
+1. 製造業データの可視化・分析（Python）  
+目的：現場データの傾向把握と改善案の示唆出し  
+内容：  
+- pandasでデータ整形  
+- KPI可視化（歩留まり・生産量・不良率）  
+- 改善ポイントの抽出  
+ポイント：  
+製造現場の知識を活かし、数字の裏側にある“現場の動き”まで踏み込んだ分析。
+
+2. Excel業務の自動化（VBA / Python）  
+目的：日次・週次の定型業務を自動化し、作業時間を削減  
+内容：  
+- VBAでのデータ整形・レポート自動生成  
+- Python（openpyxl）でのExcel操作  
+ポイント：  
+「業務効率化が好き」という強みを示せる実績。
+
+
+3. データ分析学習ノート（Python）  
+目的：学習のアウトプットを蓄積  
+内容：  
+- pandas基礎  
+- グラフ可視化  
+- 前処理・欠損処理  
+- 簡易モデル（回帰・分類）  
+ポイント：  
+未経験枠の企業が最も評価する「継続学習の証拠」。
+
+📚 Learning  
+- Python（分析・前処理・可視化）  
+- SQL（抽出・加工・集計）  
+- 統計学（基礎）  
+- 英語（海外の分析事例を読めるレベルを目指す）  
+- データ分析コンサルの書籍・ケーススタディ
+
+🎯 Career Vision  
+- データ分析 × DX × 業務改善の掛け合わせで価値提供  
+- 要件定義〜分析〜改善提案まで一気通貫で関わる  
+- 海外の技術情報を取り入れ、より精度の高い分析を行う  
+- 将来的には、予測モデル導入やデータ基盤整備にも携わる
+
+📩 Contact  
+- GitHub Issues  
+- Green / Wantedly  
+- Email（面接時に共有）
+
