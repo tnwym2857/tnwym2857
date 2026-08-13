@@ -1,7 +1,7 @@
-Shota — Data Analysis & DX Portfolio
+Shota — AI × Web Engineering Portfolio
 
-製造業での業務理解 × データ分析 × 業務改善を掛け合わせ、
-"現場で使われる分析" を実現するための学習とアウトプットをまとめています。
+製造業で培った課題発見力と、Python・Web開発・データ分析のスキルを掛け合わせ、
+“現場で使われるAI機能・Webプロダクト” を開発することを目指しています。
 
 📌 About Me
 
