@@ -7,9 +7,9 @@ Shota — AI × Web Engineering Portfolio
 
 - 滋賀在住／製造オペレーション10年、生産管理3年
 - 業務改善・データ管理・VBA自動化の経験
-- Python・SQLを用いたデータ分析を継続学習
+- Python・Django を用いた Webアプリ開発
 - 英語学習にも取り組み、海外の技術情報を自力で読み取れるレベルを目指しています
-- 目標：データ分析コンサルタントとして、課題発見〜改善提案まで一気通貫で価値提供できる人材へ
+- 目標：AI × Web × DX の領域で、課題発見〜実装〜改善まで一気通貫で価値提供できるエンジニアへ
 
 🔧 Skills
 
@@ -17,7 +17,7 @@ Languages / Tools
 
 - Python（pandas / matplotlib / seaborn）
 - SQL（BigQuery / PostgreSQL）
-- Django（Webアプリケーション開発）
+- Django/FastAPI（Webアプリケーション開発）
 - Excel VBA（業務自動化）
 - Tableau / Looker（学習中）
 - Git / GitHub
@@ -84,17 +84,18 @@ Languages / Tools
 
 - Python（分析・前処理・可視化）
 - SQL（抽出・加工・集計）
-- Django（Webアプリケーション開発）
+- Django / FastAPI（Webアプリケーション開発）
 - 統計学（基礎）
 - 英語（海外の分析事例を読めるレベルを目指す）
-- データ分析コンサルの書籍・ケーススタディ
+- AI・SaaSプロダクト開発のケーススタディ
 
 🎯 Career Vision
 
-- データ分析 × DX × 業務改善の掛け合わせで価値提供
+- AI × Web × DX の掛け合わせで価値提供
 - 要件定義〜分析〜改善提案まで一気通貫で関わる
-- 海外の技術情報を取り入れ、より精度の高い分析を行う
-- 将来的には、予測モデル導入やデータ基盤整備にも携わる
+- 自社SaaSのAI機能開発に携わる
+- 製造業の現場理解を活かし、ドメイン特化AIの開発にも挑戦
+- 将来的には、データ基盤整備や予測モデル導入にも関わる
 
 🏅 Certifications
 
