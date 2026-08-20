@@ -43,6 +43,15 @@ Languages / Tools
 - CSSをフレームワークに頼らず素の状態から実装し、TikTok風の3カラムレイアウトを再現
 - DevToolsのNetworkタブを用いた実践的なデバッグ（テンプレート継承漏れによるCSS未読み込みの原因調査）
 
+2. ECサイト開発（Django + Stripe決済連携） 🔗 https://github.com/tnwym2857/vegeket-ec-site
+目的：実務レベルのWebアプリケーション開発（モデル設計・認証・決済連携）の実践、環境構築時のトラブルシューティング力の向上
+
+内容：
+
+- Django によるECサイト構築（商品管理・カート機能・注文履歴・ユーザー認証）
+- Stripe API を用いたオンライン決済機能の実装
+- 講座教材（Django 4.0系）と実行環境（最新版）とのバージョン差分から生じる多数のエラーを、ログを1つずつ読み解きながら自力で解決（ライブラリのビルド依存関係、環境変数管理、フレームワークの仕様変更への対応など）
+- Django admin を用いたデータ管理（商品・カテゴリ・タグ）
 2. Django Todo List App
 🔗 https://github.com/tnwym2857/django-todo-app
 
@@ -71,7 +80,7 @@ Languages / Tools
 - VBAでのデータ整形・レポート自動生成
 - Python（openpyxl）でのExcel操作
 
-### 5. データ分析学習ノート（Python）
+5. データ分析学習ノート（Python）
 目的：学習のアウトプットを蓄積
 
 内容：
