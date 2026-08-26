@@ -10,6 +10,7 @@ Shota — AI × Web Engineering Portfolio
 - Python・Django を用いた Webアプリ開発
 - 英語学習にも取り組み、海外の技術情報を自力で読み取れるレベルを目指しています
 - 目標：AI × Web × DX の領域で、課題発見〜実装〜改善まで一気通貫で価値提供できるエンジニアへ
+- 現在：FastAPIを用いたバックエンド開発を学習中（Djangoで作成したECサイトの移植に取り組んでいます）
 
 🔧 Skills
 
@@ -17,7 +18,8 @@ Languages / Tools
 
 - Python（pandas / matplotlib / seaborn）
 - SQL（BigQuery / PostgreSQL）
-- Django/FastAPI（Webアプリケーション開発）
+- Python・Django を用いた Webアプリ開発
+　FastAPI 学習中（Django で作成した EC サイトを FastAPI へ移植中）
 - Excel VBA（業務自動化）
 - Tableau / Looker（学習中）
 - Git / GitHub
@@ -89,11 +91,20 @@ Languages / Tools
 - 前処理・欠損処理
 - 簡易モデル（回帰・分類）
 
+ECサイトのFastAPI移植（進行中） (コード作成中)
+目的：同一要件を異なるフレームワークで実装し、設計の違いを理解する
+
+内容：
+- Django版で実装したEC機能（商品管理・カート・決済連携）をFastAPIで再実装
+- SQLModelによるDB設計、OAuth2による認証実装に挑戦中
+- Django版での学びを踏まえ、設計改善を意識しながら移植を進行中
+
 📚 Learning
 
 - Python（分析・前処理・可視化）
 - SQL（抽出・加工・集計）
-- Django / FastAPI（Webアプリケーション開発）
+- Django （Webアプリケーション開発）
+- FastAPI（Webアプリケーション開発・非同期処理・認証・DB設計）
 - 統計学（基礎）
 - 英語（海外の分析事例を読めるレベルを目指す）
 - AI・SaaSプロダクト開発のケーススタディ
